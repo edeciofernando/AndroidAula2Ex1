@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Centro de Nutrição Avenida</string>
+    <string name="titulo">Cálculo do Peso Ideal</string>
+    <string name="nome">Nome do Paciente:</string>
+    <string name="masc">Masculino</string>
+    <string name="fem">Feminino</string>
+    <string name="sexo">Sexo:</string>
+    <string name="altura">Altura:</string>
+    <string name="calc">Calcular</string>
+    <string name="limpar">Limpar</string>
+</resources>
